@@ -90,7 +90,6 @@ The Power BI report uses dashboards to illustrate:
 📁 Insurance-Charges-Analysis
  ┣ 📄 README.md               ← Detailed project documentation
  ┣ 📄 Insurance_Report.pdf     ← Polished PDF report with insights
- ┣ 📄 insurance.pbix           ← (Optional) Raw Power BI project file
  ┗ 📁 images/                  ← Power BI dashboard screenshots
 ```
 
