@@ -100,10 +100,6 @@ The Power BI report uses dashboards to illustrate:
   - View the [Insurance_Report.pdf](./Insurance_Report.pdf) for insights.  
   - Browse `/images` folder for dashboard screenshots.  
 
-- **Analysts:**  
-  - Download `insurance.pbix` and open it in **Power BI Desktop**.  
-  - Explore interactive dashboards and modify DAX if needed.  
-
 ---
 
 ## 🎯 Business Takeaways
